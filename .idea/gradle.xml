@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SlidingMenu-master" />
+            <option value="$PROJECT_DIR$/androidprepag" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bug" />
+            <option value="$PROJECT_DIR$/cela" />
+            <option value="$PROJECT_DIR$/mvpbase" />
+            <option value="$PROJECT_DIR$/mvpbasedomel" />
+            <option value="$PROJECT_DIR$/mvpdomel02" />
+            <option value="$PROJECT_DIR$/mvprecycle" />
+            <option value="$PROJECT_DIR$/myandroid" />
+            <option value="$PROJECT_DIR$/update_domel" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
